@@ -45,3 +45,9 @@ npm run dev
 - Language switching
 
 
+## Screenshots
+- Home screen
+![alt text](image.png)
+
+- Details screen
+![alt text](image-1.png)
